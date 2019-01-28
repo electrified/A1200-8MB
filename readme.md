@@ -33,7 +33,7 @@ Hole Size :	0.4
 
 # Firmware:
 
-Stephen Leary has made a custom firmware for this board. This board does not include the IDE port, as the A1200 already have one. The firmware jed files are available on the firmware directory.
+S. Leary a.k.a terriblefire has made an small modification to the current TF322 to disable the ide option, as the A1200 already have one. The firmware jed files are available on the firmware directory.
 
 Xilinx ISE, 14.7
 JTAG Adaptor
