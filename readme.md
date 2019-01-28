@@ -72,6 +72,10 @@ There is a TF328 wiki that can be use to resolve any doubt about the compatibili
 
 https://github.com/terriblefire/tf328/wiki
 
+# PCMCIA Fix
+
+If you got problems with your PCMCIA device and this upgrade, you can use a free software solution available on aminet called CardReset http://aminet.net/package/util/boot/CardReset
+
 # Contribution / support
 
 If you wanna buy me a beer or a Mercedes SLR,  please contact me at info at arananet.net or support @terriblefire at youtube :)
