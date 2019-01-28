@@ -72,6 +72,6 @@ There is a TF328 wiki that can be use to resolve any doubt about the compatibili
 
 https://github.com/terriblefire/tf328/wiki
 
-# Contribution
+# Contribution / support
 
 If you wanna buy me a beer or a Mercedes SLR,  please contact me at info at arananet.net or support @terriblefire at youtube :)
