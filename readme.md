@@ -15,21 +15,22 @@ BTW, If you make a new board version, we will be glad if you send at least one p
 
 
 
+
 # PCB info (for pcb fabricator)
 
-Dimensions :	59 x 100 mm
-Layers :	4 layers
-Layer order: GTL, G1, G2, GBL
-Finished Copper : 1 oz Cu
-PCB Kinds:	2 (because the breakable area)
-Track/Spacing:	6/6mil
-Blind/Buried Via: No
-Material :	Normal FR-4 Board TG150
-Thickness :	1.6 mm
-Solder Mask :	Whatever color you want :)
-Silkscreen :	Whatever color you want :)
-Surface Finish :Immersion gold (recommended)
-Hole Size :	0.4
+Dimensions :	59 x 100 mm 
+Layers :	4 layers 
+Layer order: GTL, G1, G2, GBL 
+Finished Copper : 1 oz Cu 
+PCB Kinds:	2 (because the breakable area) 
+Track/Spacing:	6/6mil 
+Blind/Buried Via: No 
+Material :	Normal FR-4 Board TG150 
+Thickness :	1.6 mm 
+Solder Mask :	Whatever color you want :) 
+Silkscreen :	Whatever color you want :) 
+Surface Finish :Immersion gold (recommended) 
+Hole Size :	0.4 
 
 # Firmware:
 
