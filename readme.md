@@ -12,9 +12,8 @@ BTW, If you make a new board version, we will be glad if you send at least one p
 
 # Images
 
-
-
-
+<img src='https://github.com/arananet/A1200-8MB/blob/master/images/top.png?raw=true' width=700/>
+<img src='https://github.com/arananet/A1200-8MB/blob/master/images/bottom.png?raw=true' width=700/>
 
 # PCB info (for pcb fabricator)
 
