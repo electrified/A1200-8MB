@@ -38,6 +38,10 @@ S. Leary a.k.a terriblefire has made an small modification to the current TF322 
 Xilinx ISE, 14.7
 JTAG Adaptor
 
+Stephen has made a new branch for the firmware used on this board. The current branch address is https://github.com/terriblefire/tf328/tree/edu1200_board
+
+Thanks S.
+
 # Gerbers:
 
 Premade gerbers of the board are available on this repository too.
